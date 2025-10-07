@@ -19,7 +19,7 @@
 📚 - [Lessons](docs/contents.md)
 
 # Social
-
+# Network
 🎥 - [YouTube](https://www.youtube.com/c/AntonPutra)  
 💼 - [LinkedIn](https://www.linkedin.com/in/anton-putra)  
 🛠️ - [Twitter/X](https://x.com/antonvputra)  
